@@ -1,6 +1,6 @@
 # Credit Risk Modelling 
 
-In this project we are solving the problem of banks, that is credit risk. We are predicting that whether the customer will pay back the loan or not. Based on the previous data, we have trained machine learning and deep learning models to do so and achived 91%(approx) accuracy on testing set. 
+In this project, we are solving the problem of credit risk. We are predicting that whether the customer will pay back the loan or not. Based on the previous data, we have trained machine learning and deep learning models to do so and achived 91%(approx) accuracy on testing set. 
 
 ## How to use?
 
